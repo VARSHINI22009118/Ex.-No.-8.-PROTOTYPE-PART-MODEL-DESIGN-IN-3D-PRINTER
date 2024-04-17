@@ -46,9 +46,11 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/VARSHINI22009118/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119401150/bff8325f-0682-4ec5-9252-593bbcf0d620)
 
-### Name:
-### Register Number:
+
+### Name:VARSHINI S A
+### Register Number:212222100059
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
